@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loan Calculator Container Tests should render Loan Calculator Component 1`] = `ShallowWrapper {}`;
+
+exports[`Loan Calculator Container Tests should submit Loan Details 1`] = `ShallowWrapper {}`;
+
+exports[`Loan Calculator Container Tests should update Deposit amount 1`] = `ShallowWrapper {}`;
+
+exports[`Loan Calculator Container Tests should update Duration 1`] = `ShallowWrapper {}`;
+
+exports[`Loan Calculator Container Tests should update Loan amount 1`] = `ShallowWrapper {}`;
+
+exports[`Loan Calculator Container Tests should update error 1`] = `ShallowWrapper {}`;
